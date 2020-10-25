@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0bd175dc571d9466eaa80f9bd4da440b
+timeCreated: 1546877989
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Native Alien
+  fontNames:
+  - Native Alien
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
